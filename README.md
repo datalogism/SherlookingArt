@@ -1,4 +1,5 @@
 # SherlookingArt
+
 Project conducted during the King's College Prompting Hackathon
 
 To what extent can LLMs be useful for multi-modal knowledge acquisition and inferencing?
@@ -8,3 +9,5 @@ To what extent can LLMs be useful for multi-modal knowledge acquisition and infe
 * The goal would be to test the ability of multi-modal LLMs such as GPT-4 (as well as others) towards the construction and completion of a multi-modal KG in the context of the MuseIT project (https://www.muse-it.eu/). 
 * Particularly interesting would be to explore the functionality of LLMs for multi-modal reasoning and inferencing.
 
+
+![Uploading Untitled Diagram.drawio(5).png…]()
